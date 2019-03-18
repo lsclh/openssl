@@ -1,0 +1,18 @@
+{
+    "autoload": {
+    	"psr-4": {
+        	"Lsclh\\Openssl\\": "src/"
+		}
+    },
+    "name": "lsclh/openssl",
+    "description": "根据文档封装的华信云短信接口",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cheng",
+            "email": "1019759208@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
